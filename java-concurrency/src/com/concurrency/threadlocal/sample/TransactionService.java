@@ -1,4 +1,4 @@
-package com.threadlocal.sample;
+package com.concurrency.threadlocal.sample;
 
 public class TransactionService {
 

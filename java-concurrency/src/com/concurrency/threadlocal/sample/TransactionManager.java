@@ -1,4 +1,4 @@
-package com.threadlocal.sample;
+package com.concurrency.threadlocal.sample;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
