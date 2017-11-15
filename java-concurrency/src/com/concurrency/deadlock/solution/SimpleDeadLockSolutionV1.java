@@ -1,9 +1,9 @@
-package com.threadlocal.deadlock;
+package com.concurrency.deadlock.solution;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class SimpleDeadLockV1 {
+public class SimpleDeadLockSolutionV1 {
 
 	public static void main(String[] args) throws InterruptedException {
 

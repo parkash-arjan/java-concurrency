@@ -1,4 +1,4 @@
-package com.threadlocal.deadlock;
+package com.concurrency.deadlock;
 
 import java.util.concurrent.locks.Lock;
 
