@@ -30,5 +30,5 @@ public class SharedCounter {
 	public int getValue() {
 		return this.count;
 	}
-
+ 
 }
