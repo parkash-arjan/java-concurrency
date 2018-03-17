@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 
 public class Main {
 	public static void main(String[] args) {
-		// infinitely or until out of memory error adds values to the cache;
+		// runs infinitely/until outofmemory error, adds values to the cache;
 		Cache cache = new Cache();
 		ExecutorService executor = Executors.newFixedThreadPool(10);
 		System.out.println("Here we go!!!");
